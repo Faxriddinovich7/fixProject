@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-blue-600 text-white py-8">
+  <footer class="bg-gray-600 text-white py-8">
     <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
       <p class="mb-4 md:mb-0">&copy; 2025 Brand. All rights reserved.</p>
       <div class="flex space-x-6">
